@@ -30,5 +30,5 @@ The dashboard provides a comprehensive, data-driven approach to crime analysis, 
 # Chart 1
 The chart below is a dynamic and interactive dashboard representation of the dataset, highlighting key metrics such as total crime and average crime as KPIs. It also visually displays each state's total crime, providing a clear and insightful overview of crime distribution across the country.
 
-![image alt](CSN Dashboard 5.png)
+![image alt](https://github.com/Weyimil/Crime-Analysis-and-Safety-Recommendations/blob/main/CSN%20Dashboard%201.png?raw=true)
 
