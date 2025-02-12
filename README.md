@@ -26,3 +26,7 @@ I developed an interactive dashboard in Power BI, enabling efficient data visual
 5. User-Friendly Filters & Drill-Throughs – I added interactive filters, allowing users to drill down into specific states, regions, or crime categories, making the dashboard dynamic and tailored to specific analytical needs.  
 
 The dashboard provides a comprehensive, data-driven approach to crime analysis, helping law enforcement and policymakers make informed decisions on resource allocation and crime prevention strategies.
+
+# Chart 1
+The chart below is a dynamic and interactive dashboard representation of the dataset, highlighting key metrics such as total crime and average crime as KPIs. It also visually displays each state's total crime, providing a clear and insightful overview of crime distribution across the country.
+
