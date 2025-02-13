@@ -42,4 +42,4 @@ The last two charts below provide a dynamic and interactive dashboard representa
 
 ![image alt](https://github.com/Weyimil/Crime-Analysis-and-Safety-Recommendations/blob/main/CSN%20Dashboard%203.png?raw=true)
 
-![image alt]()
+![image alt](https://github.com/Weyimil/Crime-Analysis-and-Safety-Recommendations/blob/main/CSN%20Dashboard%205.png?raw=true)
