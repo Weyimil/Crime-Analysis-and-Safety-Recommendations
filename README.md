@@ -35,4 +35,4 @@ The chart below is a dynamic and interactive dashboard representation of the dat
 # Chart 2
 The chart below is a dynamic and interactive dashboard representation of the dataset, showcasing key metrics such as total crime and average crime as KPIs within a regional context (North, South, East, and West). It visually presents each region's total crime, offering a clear and insightful overview of crime distribution across Nigeria.
 
-![image alt]()
+![image alt](https://github.com/Weyimil/Crime-Analysis-and-Safety-Recommendations/blob/main/CSN%20Dashboard%202.png?raw=true)
