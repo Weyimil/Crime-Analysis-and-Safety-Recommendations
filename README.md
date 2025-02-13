@@ -40,6 +40,6 @@ The chart below is a dynamic and interactive dashboard representation of the dat
 # Chart 3 and 4
 The last two charts below provide a dynamic and interactive dashboard representation of the dataset, highlighting key metrics such as total crime and average crime as KPIs. Additionally, they offer a comprehensive view of crime statistics in each state through a head-to-head comparison. By visually presenting each state's total crime in relation to others, these charts provide a clear and insightful analysis of crime distribution across Nigeria.
 
-![image alt]()
+![image alt](https://github.com/Weyimil/Crime-Analysis-and-Safety-Recommendations/blob/main/CSN%20Dashboard%203.png?raw=true)
 
 ![image alt]()
