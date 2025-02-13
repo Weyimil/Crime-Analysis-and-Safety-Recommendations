@@ -66,7 +66,7 @@ b) Total Crime on People (18,926 cases, accounting for 35.30%)
 c) Total Rape (441 cases, highest nationwide)
 d) Total Murder (216 cases)
 
-Given its large population and economic significance, Lagos requires urgent crime reduction measures.
+   Given its large population and economic significance, Lagos requires urgent crime reduction measures.
 
 2. Edo State has the highest Attempted Murder (98 cases, accounting for 12.71%), indicating the need for increased security intervention in homicide prevention.
 
