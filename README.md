@@ -43,3 +43,30 @@ The last two charts below provide a dynamic and interactive dashboard representa
 ![image alt](https://github.com/Weyimil/Crime-Analysis-and-Safety-Recommendations/blob/main/CSN%20Dashboard%203.png?raw=true)
 
 ![image alt](https://github.com/Weyimil/Crime-Analysis-and-Safety-Recommendations/blob/main/CSN%20Dashboard%205.png?raw=true)
+
+# Executive Summary
+
+Based on the provided crime data across 37 states in Nigeria, there are significant variations in crime rates, highlighting specific states as more dangerous or safer than others.
+Safest States for Living and Raising a Family
+•	Kebbi State emerges as the safest state, having the lowest Total Crime (176) and Average Crime (12.57).
+•	Osun State also shows a relatively low crime rate, particularly in violent crimes like Murder (25 cases, the lowest among states).
+•	Anambra State recorded zero cases of rape, indicating a safer environment in this regard.
+These states, with consistently lower crime rates across multiple categories, would be more favorable for raising a family.
+States with High Crime Rates and Areas Requiring Urgent Attention
+•	Lagos State has the highest crime statistics across multiple categories, including:
+o	Total Crime (37,852 cases)
+o	Sum of Crime on People (18,926 cases, accounting for 35.30%)
+o	Sum of Rape (441 cases, highest nationwide)
+o	Sum of Murder (216 cases)
+Given its large population and economic significance, Lagos requires urgent crime reduction measures.
+•	Edo State has the highest Attempted Murder (98 cases, accounting for 12.71%), indicating the need for increased security intervention in homicide prevention.
+•	Abia State recorded the highest number of Assault cases (8,945, accounting for 37.24%), suggesting a high prevalence of violent altercations.
+•	Rivers State leads in Suicide cases (105, accounting for 31.63%), pointing to a critical need for mental health interventions.
+Recommendations for Authorities
+1.	Increase Manpower in Lagos – With the highest crime rates across multiple categories (rape, murder, assault, and total crime), Lagos should receive significant law enforcement reinforcements and improved community policing strategies.
+2.	Focus on Homicide Prevention in Edo and Ebonyi – These states have high Attempted Murder and Murder rates. Targeted security patrols and forensic investigations can help mitigate these crimes.
+3.	Address Gender-Based Violence in Kano and FCT-Abuja – After Lagos, these states recorded high rape cases, necessitating specialized gender crime units.
+4.	Combat Rising Suicide Rates in Rivers, Borno, and Lagos – Mental health services and suicide prevention programs should be prioritized in these states.
+5.	Control Violent Assault in Abia and Delta – Focused conflict resolution programs, better law enforcement visibility, and crime deterrence policies are required.
+By deploying targeted law enforcement and social intervention measures, authorities can significantly enhance public safety and reduce crime in the most affected areas.
+
