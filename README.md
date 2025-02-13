@@ -63,8 +63,8 @@ Total Crime (37,852 cases)
 Sum of Crime on People (18,926 cases, accounting for 35.30%)
 Sum of Rape (441 cases, highest nationwide)
 Sum of Murder (216 cases)
-
 Given its large population and economic significance, Lagos requires urgent crime reduction measures.
+
 Edo State has the highest Attempted Murder (98 cases, accounting for 12.71%), indicating the need for increased security intervention in homicide prevention.
 Abia State recorded the highest number of Assault cases (8,945, accounting for 37.24%), suggesting a high prevalence of violent altercations.
 Rivers State leads in Suicide cases (105, accounting for 31.63%), pointing to a critical need for mental health interventions.
